@@ -10,3 +10,7 @@ https://react-icons.github.io/react-icons/
 
 npx prisma init
 setup my sql server
+
+use pascal naming conventions and give singular names
+
+npx prisma format // to format schema
