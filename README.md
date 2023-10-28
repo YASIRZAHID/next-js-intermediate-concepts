@@ -28,3 +28,7 @@ npx prisma format // to format schema
  npm install @radix-ui/themes
 
  <ThemePanel /> can be used whenever we want to customize components darkmode works only for v2.0 or greater
+
+ # MD editor
+
+ npm install --save react-simplemde-editor easymde 
