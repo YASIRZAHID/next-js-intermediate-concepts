@@ -26,3 +26,5 @@ npx prisma format // to format schema
  https://www.radix-ui.com/
 
  npm install @radix-ui/themes
+
+ <ThemePanel /> can be used whenever we want to customize components darkmode works only for v2.0 or greater
