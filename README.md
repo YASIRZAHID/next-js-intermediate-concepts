@@ -38,3 +38,7 @@ npx prisma format // to format schema
  https://react-hook-form.com/
 
  > npm i axios@1.5.0
+
+ # implementing client-side validation
+
+ > npm i @hookform/resolvers@3.3.1 //enables react to be integrated with data validation libraries like zod
