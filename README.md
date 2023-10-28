@@ -18,3 +18,11 @@ npx prisma format // to format schema
 # zod for schema validations
 
  npm i zod@3.22.2
+
+ # radix
+
+ themes and primitive (behavior is decided by us)
+
+ https://www.radix-ui.com/
+
+ npm install @radix-ui/themes
