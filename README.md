@@ -32,3 +32,9 @@ npx prisma format // to format schema
  # MD editor
 
  npm install --save react-simplemde-editor easymde 
+
+ # React Hook Form
+
+ https://react-hook-form.com/
+
+ > npm i axios@1.5.0
