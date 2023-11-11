@@ -42,3 +42,11 @@ npx prisma format // to format schema
  # implementing client-side validation
 
  > npm i @hookform/resolvers@3.3.1 //enables react to be integrated with data validation libraries like zod
+
+ # Simulating a slow server
+
+ npm i delay
+
+ # For adding loading skeletons
+
+ npm i react-loading-skeleton@3.3.1
