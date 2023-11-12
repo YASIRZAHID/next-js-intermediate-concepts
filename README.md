@@ -60,3 +60,7 @@ npx prisma format // to format schema
  npm install -D @tailwindcss/typography
 
 https://tailwindcss.com/docs/typography-plugin 
+
+#Creating custom link components using next link and radix
+
+passHref legacyBehavior
