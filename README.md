@@ -50,3 +50,13 @@ npx prisma format // to format schema
  # For adding loading skeletons
 
  npm i react-loading-skeleton@3.3.1
+
+ # Viewing markdown components
+
+ npm i react-markdown@8.0.7
+
+ # to be able to render bullets and headings
+
+ npm install -D @tailwindcss/typography
+
+https://tailwindcss.com/docs/typography-plugin 
