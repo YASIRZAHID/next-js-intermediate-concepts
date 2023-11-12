@@ -64,3 +64,5 @@ https://tailwindcss.com/docs/typography-plugin
 #Creating custom link components using next link and radix
 
 passHref legacyBehavior
+
+organize import >> builtin vscode organizer
