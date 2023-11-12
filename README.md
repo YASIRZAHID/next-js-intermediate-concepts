@@ -66,3 +66,7 @@ https://tailwindcss.com/docs/typography-plugin
 passHref legacyBehavior
 
 organize import >> builtin vscode organizer
+
+# Radix UI Icons
+
+npm i @radix-ui/react-icons
