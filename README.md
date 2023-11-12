@@ -73,3 +73,4 @@ npm i @radix-ui/react-icons
 
 # Single Responsibility Principle
 
+Creating a folder with _ at the start opts the file out of routing system
