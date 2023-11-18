@@ -4,7 +4,7 @@ import delay from "delay";
 import { notFound } from "next/navigation";
 import IssueDetails from "./IssueDetails";
 import EditIssueButton from "./EditIssueButton";
-import DeleteIssueButton from "./deleteIssueButton";
+import DeleteIssueButton from "./DeleteIssueButton";
 interface Props {
   params: { id: string };
 }
