@@ -79,3 +79,9 @@ Creating a folder with _ at the start opts the file out of routing system
 
 console.cloud.google.com 
 
+# Using React Query to reduce Api calls
+
+ npm i @tanstack/react-query@4.35.3
+
+ 
+
