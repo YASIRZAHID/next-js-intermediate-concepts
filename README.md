@@ -9,6 +9,9 @@ https://react-icons.github.io/react-icons/
 ##
 
 npx prisma init
+
+npx prisma generate // node must be stopped while generation
+
 setup my sql server
 
 use pascal naming conventions and give singular names
@@ -83,5 +86,5 @@ console.cloud.google.com
 
  npm i @tanstack/react-query@4.35.3
 
- 
+
 
