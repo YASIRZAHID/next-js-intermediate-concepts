@@ -53,7 +53,7 @@ const NavLinks = () => {
 const AuthStatus = ()=>{
   const { status, data: session } = useSession();
   if (status==='loading') return <Skeleton width="3rem"/>;
-  if (status==='unauthenticated') return <Link className="nav-link" href="/api/auth/signinxc">Log In </Link>;
+  if (status==='unauthenticated') return <Link className="nav-link" href="/api/auth/signin">Log In </Link>;
 return (
   <Box>
     {status === "authenticated" && (
